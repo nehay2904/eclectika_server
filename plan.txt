@@ -1,0 +1,4 @@
+1. google authentication
+2. 7 mega registration
+3. 20 mini events with  no registration
+4. animations 
